@@ -2,7 +2,7 @@ export const projects = [
     {
         title: "My website",
         thumbnail: "my_page.png",
-        description: "This website with some experimental features",
+        description: "With some experimental features",
         linkGithub: "https://github.com/f-depalma/my_page_scroll",
         linkWebsite: "http://mypage.francescodepalma.com"
     },

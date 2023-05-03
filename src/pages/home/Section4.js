@@ -10,7 +10,7 @@ export default function Section4() {
                 <div className="max-w-xl">
                     <div className="flex flex-row justify-center h-24">
                         <img src="VIA-logo.png" className="w-9/12 lg:mr-auto lg:w-80 z-10 object-contain"></img>
-                        <div className="max-h-24 overflow-hidden flex flex-col justify-center" style={{maxWith: "88px"}}>
+                        <div className="max-h-24 overflow-hidden flex flex-col justify-center" style={{maxWidth: "88px"}}>
                             <img src="Subject.png" className="h-auto aspect-square rounded-full object-contain float-right" />
                         </div>
                     </div>
