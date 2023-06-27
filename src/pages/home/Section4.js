@@ -58,6 +58,18 @@ export default function Section4() {
                                     <td className={rowClass} title="Database Systems">DBS1 <span className="hidden sm:contents">- Database Systems</span></td>
                                     <td className={rowClass}>12</td>
                                 </tr>
+                                <tr>
+                                    <td className={rowClass} title="Database Systems">SDJ2 <span className="hidden sm:contents">- Software Development with UML and Java</span></td>
+                                    <td className={rowClass}>10</td>
+                                </tr>
+                                <tr>
+                                    <td className={rowClass} title="Database Systems">SDJ3 <span className="hidden sm:contents">- Software Development with UML and Java</span></td>
+                                    <td className={rowClass}>12</td>
+                                </tr>
+                                <tr>
+                                    <td className={rowClass} title="Database Systems">DNP1 <span className="hidden sm:contents">- .NET Programming</span></td>
+                                    <td className={rowClass}>12</td>
+                                </tr>
                             </tbody>
                         </table>
                     </div>
