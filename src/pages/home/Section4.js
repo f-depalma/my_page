@@ -70,6 +70,10 @@ export default function Section4() {
                                     <td className={rowClass} title="Database Systems">DNP1 <span className="hidden sm:contents">- .NET Programming</span></td>
                                     <td className={rowClass}>12</td>
                                 </tr>
+                                <tr>
+                                    <td className={rowClass} title="Database Systems">NES1 <span className="hidden sm:contents">- Networking and Security</span></td>
+                                    <td className={rowClass}>7</td>
+                                </tr>
                             </tbody>
                         </table>
                     </div>
