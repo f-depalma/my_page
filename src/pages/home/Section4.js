@@ -59,23 +59,23 @@ export default function Section4() {
                                     <td className={rowClass}>12</td>
                                 </tr>
                                 <tr>
-                                    <td className={rowClass} title="Database Systems">SDJ2 <span className="hidden sm:contents">- Software Development with UML and Java</span></td>
+                                    <td className={rowClass} title="Software Development with UML and Java">SDJ2 <span className="hidden sm:contents">- Software Development with UML and Java</span></td>
                                     <td className={rowClass}>10</td>
                                 </tr>
                                 <tr>
-                                    <td className={rowClass} title="Database Systems">SDJ3 <span className="hidden sm:contents">- Software Development with UML and Java</span></td>
+                                    <td className={rowClass} title="Software Development with UML and Java">SDJ3 <span className="hidden sm:contents">- Software Development with UML and Java</span></td>
                                     <td className={rowClass}>12</td>
                                 </tr>
                                 <tr>
-                                    <td className={rowClass} title="Database Systems">DNP1 <span className="hidden sm:contents">- .NET Programming</span></td>
+                                    <td className={rowClass} title=".NET Programming">DNP1 <span className="hidden sm:contents">- .NET Programming</span></td>
                                     <td className={rowClass}>12</td>
                                 </tr>
                                 <tr>
-                                    <td className={rowClass} title="Database Systems">NES1 <span className="hidden sm:contents">- Networking and Security</span></td>
+                                    <td className={rowClass} title="Networking and Security">NES1 <span className="hidden sm:contents">- Networking and Security</span></td>
                                     <td className={rowClass}>7</td>
                                 </tr>
                                 <tr>
-                                    <td className={rowClass} title="Database Systems">SEP3 <span className="hidden sm:contents">- Semester Project 3</span></td>
+                                    <td className={rowClass} title="Semester Project 3">SEP3 <span className="hidden sm:contents">- Semester Project 3</span></td>
                                     <td className={rowClass}>7</td>
                                 </tr>
                             </tbody>
