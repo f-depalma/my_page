@@ -78,6 +78,10 @@ export default function Section4() {
                                     <td className={rowClass} title="Semester Project 3">SEP3 <span className="hidden sm:contents">- Semester Project 3</span></td>
                                     <td className={rowClass}>7</td>
                                 </tr>
+                                <tr>
+                                    <td className={rowClass} title="Computer Architecture and Organisation">CAO1 <span className="hidden sm:contents">- Computer Architecture and Organisation</span></td>
+                                    <td className={rowClass}>10</td>
+                                </tr>
                             </tbody>
                         </table>
                     </div>
