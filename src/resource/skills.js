@@ -1,5 +1,10 @@
 export const skills = [
     {
+        icon: "python.png",
+        name: "Python",
+        description: ""
+    },
+    {
         icon: "react-icon.svg",
         name: "React",
         description: ""
