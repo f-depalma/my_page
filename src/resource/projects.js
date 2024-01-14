@@ -19,5 +19,12 @@ export const projects = [
         description: "My first project (2018)",
         linkGithub: "https://github.com/f-depalma/snake",
         linkWebsite: "http://snake.francescodepalma.com"
+    },
+    {
+        title: "PigeonSpy",
+        thumbnail: "dashboard2.png",
+        description: "Industry 4.0",
+        linkGithub: "https://github.com/f-depalma/sick",
+        linkWebsite: "http://sick.francescodepalma.com"
     }
 ]
